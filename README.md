@@ -1,7 +1,9 @@
 # Weekly Status Updates for CTEC 280
 
 **Course Title**: Introduction to AI and Robotics
+
 **Instructor**: Bruce Elgort
+
 **Contact**: [belgort@clark.edu](mailto:belgort@clark.edu)
 
 - [Week 1 Status Update](spring-2019-week-1.md)
