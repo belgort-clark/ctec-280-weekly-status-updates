@@ -1,0 +1,21 @@
+# Week 3
+
+- Enrollment is still at 15
+- We covered intro to programming with Python including:
+  - Counted loops (for)
+  - Indefinite loops (while)
+  - Functions
+  - Variable assignment
+  - Debugging
+  - If/else decision structures
+  - Built-in language functions
+  - Input/Print
+  - How to install and configure Python
+  - How to install, configure and use Microsoft Visual Studio Code
+  - How to install and configure Anaconda
+- We watched a video that introduced the Cozmo robot that we will be programming with Python in week 4
+- We reviewed the Cozmo app installation instructions
+- We discussed the Cozmo Python based software development kit
+- We had a very short demo of Cozmo
+- We discussed some aspects about 3D printing and in particular how some of their Tinkercad design choices affected their prints
+- I’m seeing some warping occurring on our printer. I’m working with Thomas Lee from Bellevue on how they have resolved this common 3d printing issue

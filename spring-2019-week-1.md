@@ -1,0 +1,22 @@
+# Week 1
+
+- We have 3 parent/student groups who are now enrolled in the course
+- We have one faculty member who is auditing the class
+- We will have a total of 15 students in the class as of next week
+- I have setup, configured and printed on one of the 3D Printers. It’s currently in my office
+- I have setup and configured the NAO robot
+- I have contact IT to get a private wireless network setup in SHL 125
+- We covered the history of robotics and ethics this week. Both classes were full of meaningful and lively discussions.
+- I have modified some of the material in week 1 to be more in line with my teaching style and the student population
+- I have modified the weekly schedule. 3D Printing was in Week 9/10 in the Bellevue model. I thought it would be a good week 2 topic rather than statistics. I then moved Python programming which only 28% of the class has had prior experience with.
+  - Week 1: An Introduction to Robotics and Artificial Intelligence
+  - Week 2: Intro to 3D Printing
+  - Week 3: Python Fundamentals
+  - Week 4: Python and Cozmo Robot Programming
+  - Week 5: Statistics - The Fundamentals
+  - Week 6: Time Series Analysis
+  - Week 7: Machine Learning and AI (Part 1)
+  - Week 8: Machine Learning and AI (Part 2)
+  - Week 9: NOA Robotics
+  - Week 10: Malware and Security for Robotics
+  - Week 11: Final Project Presentations
