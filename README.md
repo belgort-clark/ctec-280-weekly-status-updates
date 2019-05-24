@@ -1,5 +1,7 @@
 # Weekly Status Updates for CTEC 280
 
+**Institution**: Clark College, Vancouver, WA
+
 **Course Title**: Introduction to AI and Robotics
 
 **Instructor**: Bruce Elgort
