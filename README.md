@@ -15,6 +15,6 @@
 - [Week 5 Status Update](spring-2019-week-5.md)
 - [Week 6 Status Update](spring-2019-week-6.md)
 - [Week 7 Status Update](spring-2019-week-7.md)
-- Week 8 Status Update
+- [Week 8 Status Update](spring-2019-week-8.md)
 - Week 9 Status Update
 - Week 10 Status Update
