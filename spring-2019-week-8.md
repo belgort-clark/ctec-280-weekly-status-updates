@@ -6,4 +6,4 @@
 - Once all of the images were captured, they began running the Python code provided to generate the machine learning model.
 - The model building will take 5-12 hours depending on the students computer.
 - Week 9 will be dedicated to connecting the Cozmo robot with the image recognition machine learning code that was developed during Week 8.
-- Students will then program the Cozmo to cruise around and look for the figurine of their choice. The army man or the dinasour. Once it's identified it will then be programmed to accelerate towards it and knock it over.
+- Students will then program the Cozmo to cruise around and look for the figurine of their choice. The army man or the dinosaur. Once it's identified it will then be programmed to accelerate towards it and knock it over.
